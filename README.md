@@ -22,6 +22,8 @@ Things i look to do in the future :
 
 1- Instead of deleting all non closest path edges highlighte the closest path edges.
 2- Improve code and make it more clean and understandable.
-3- Adding the option to choose more algorthims
+3- Adding the option to choose more algorthims.
+
+Notice to use it you'll need to have pyqt5 library imported in your python file, if you don't know how, simply in cmd type pip install pyqt5.
 
  
